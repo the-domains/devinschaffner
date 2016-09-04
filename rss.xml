@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[devinschaffner]]></title>
-        <description><![CDATA[devinschaffner]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[2016 DS Ambition]]></title>
+        <description><![CDATA[2016 DS Ambition]]></description>
+        <link>https://thegrid.ai/devinschaffner/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 13:42:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 01 Sep 2016 19:08:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/devinschaffner/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VMA's]]></title>
+            <description><![CDATA[<article><h1>VMA's</h1><p>Next event with be at...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7947de7-658d-46ed-853a-d0b2218cee71.jpg"></article>]]></description>
+            <link>https://thegrid.ai/devinschaffner/vmas/index.html</link>
+            <guid isPermaLink="false">1513cb6e-cdc1-4fb2-86c8-7a4a41de306e</guid>
+            <pubDate>Thu, 01 Sep 2016 19:08:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47c07474-0994-462b-8e18-30f8ed21a5c7.jpg">]]></description>
-            <link>undefinedb0f605eb-b361-4ffb-ae07-315491b6fc43/index.html</link>
+            <link>https://thegrid.ai/devinschaffner/b0f605eb-b361-4ffb-ae07-315491b6fc43/index.html</link>
             <guid isPermaLink="false">b0f605eb-b361-4ffb-ae07-315491b6fc43</guid>
             <pubDate>Thu, 21 Jan 2016 13:42:23 GMT</pubDate>
         </item>
